@@ -1,0 +1,12 @@
+.tag {
+    text-align: center;
+}
+
+.slick-slide img {
+    margin: auto;
+    border-radius: 0px;
+}
+
+.container .section {
+    margin-top: 50px;
+}

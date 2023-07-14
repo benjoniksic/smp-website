@@ -110,7 +110,7 @@
     width: 100%;
     z-index: 60;
 
-    @include media('>medium') {
+    @include media(">medium") {
         bottom: 32px;
         right: 48px;
         width: auto;
@@ -118,16 +118,16 @@
 }
 
 .banner-inner {
-    background-color: #1e293b;
+    background-color: #033e41;
     color: #f8fafc;
     padding: 12px;
     display: flex;
     justify-content: space-between;
     align-items: center;
 
-    @include media('>medium') {
+    @include media(">medium") {
         border-radius: 4px;
-    }    
+    }
 }
 
 .banner-container {
@@ -147,6 +147,14 @@
     color: #f8fafc !important;
 }
 
+.banner-link-facebook {
+    color: #3b5998 !important;
+}
+
+.banner-link-instagram {
+    color: #cd486b !important;
+}
+
 .banner-link-green {
     color: #10b981 !important;
 }
@@ -159,9 +167,9 @@
 .banner-hide-on-sm {
     display: none;
 
-    @include media('>small') {
+    @include media(">small") {
         display: inline;
-    }      
+    }
 }
 
 .banner-close {

@@ -40,9 +40,9 @@ const Testimonial = ({
     const tilesClasses = classNames("tiles-wrap", pushLeft && "push-left");
 
     const sectionHeader = {
-        title: "Customer testimonials",
+        title: "Preporuke klijenata",
         paragraph:
-            "Vitae aliquet nec ullamcorper sit amet risus nullam eget felis semper quis lectus nulla at volutpat diam ut venenatis tellus—in ornare.",
+            "Donosimo vam iskustva naših zadovoljnih klijenata koji su prošli SMP tretman i njihove preporuke za Vas.",
     };
 
     return (
@@ -61,21 +61,22 @@ const Testimonial = ({
                             <div className="tiles-item-inner">
                                 <div className="testimonial-item-content">
                                     <p className="text-sm mb-0">
-                                        — Duis aute irure dolor in reprehenderit
-                                        in voluptate velit esse cillum dolore eu
-                                        fugiat nulla pariatur. Excepteur sint
-                                        occaecat cupidatat non proident, sunt in
-                                        culpa qui officia deserunt mollit anim
-                                        id est laborum cillum dolore eu fugiat.
+                                        — Nakon nekoliko dana što je prošlo od
+                                        zadnjeg tretmana, SMP je ostavio
+                                        vrhunski utisak. Prirodan, i toliko je
+                                        realan da i mene zavara ponekad, hvala
+                                        Vam jos jednom na svemu!
                                     </p>
                                 </div>
                                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
                                     <span className="testimonial-item-name text-color-high">
-                                        Roman Level
+                                        Ime
                                     </span>
                                     <span className="text-color-low"> / </span>
                                     <span className="testimonial-item-link">
-                                        <a href="#0">AppName</a>
+                                        <a href="tretmani">
+                                            Mikropigmentacija skalpa
+                                        </a>
                                     </span>
                                 </div>
                             </div>
@@ -85,21 +86,23 @@ const Testimonial = ({
                             <div className="tiles-item-inner">
                                 <div className="testimonial-item-content">
                                     <p className="text-sm mb-0">
-                                        — Duis aute irure dolor in reprehenderit
-                                        in voluptate velit esse cillum dolore eu
-                                        fugiat nulla pariatur. Excepteur sint
-                                        occaecat cupidatat non proident, sunt in
-                                        culpa qui officia deserunt mollit anim
-                                        id est laborum cillum dolore eu fugiat.
+                                        — Najbolje od svega je što se ne
+                                        primjeti razlika između kose i boje
+                                        pigmenta. Također moram dodati da ni
+                                        roditelji ne primjećuju da sam išta
+                                        radio jer tretman ostavlja utisak
+                                        stvarne kose.
                                     </p>
                                 </div>
                                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
                                     <span className="testimonial-item-name text-color-high">
-                                        Diana Rynzhuk
+                                        Senad
                                     </span>
                                     <span className="text-color-low"> / </span>
                                     <span className="testimonial-item-link">
-                                        <a href="#0">AppName</a>
+                                        <a href="tretmani">
+                                            Mikropigmentacija skalpa
+                                        </a>
                                     </span>
                                 </div>
                             </div>
@@ -112,21 +115,21 @@ const Testimonial = ({
                             <div className="tiles-item-inner">
                                 <div className="testimonial-item-content">
                                     <p className="text-sm mb-0">
-                                        — Duis aute irure dolor in reprehenderit
-                                        in voluptate velit esse cillum dolore eu
-                                        fugiat nulla pariatur. Excepteur sint
-                                        occaecat cupidatat non proident, sunt in
-                                        culpa qui officia deserunt mollit anim
-                                        id est laborum cillum dolore eu fugiat.
+                                        — Prezadovoljan sam finalnim izgledom,
+                                        naročito mi je drago što je rezultat već
+                                        tu nakon prvog SMP tretmana. Definitivna
+                                        preporuka za našu Aidu!
                                     </p>
                                 </div>
                                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
                                     <span className="testimonial-item-name text-color-high">
-                                        Ben Stafford
+                                        Dalibor
                                     </span>
                                     <span className="text-color-low"> / </span>
                                     <span className="testimonial-item-link">
-                                        <a href="#0">AppName</a>
+                                        <a href="tretmani">
+                                            Mikropigmentacija skalpa
+                                        </a>
                                     </span>
                                 </div>
                             </div>

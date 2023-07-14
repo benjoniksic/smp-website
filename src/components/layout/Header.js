@@ -117,6 +117,11 @@ const Header = ({
                                         )}
                                     >
                                         <li>
+                                            <Link to="" onClick={closeMenu}>
+                                                Naslovna
+                                            </Link>
+                                        </li>
+                                        <li>
                                             <Link
                                                 to="tretmani"
                                                 onClick={closeMenu}

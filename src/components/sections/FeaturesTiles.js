@@ -58,11 +58,11 @@ const FeaturesTiles = ({
                             <div className="tiles-item-inner">
                                 <div className="features-tiles-item-header">
                                     <div className="features-tiles-item-image mb-16">
-                                        <Image
-                                            src={require("./../../assets/images/feature-tile-icon-01.svg")}
-                                            alt="Features tile icon 01"
-                                            width={200}
-                                            height={200}
+                                        <img
+                                            src={require("./../../assets/images/DSC_0469.jpg")}
+                                            width={400}
+                                            height={400}
+                                            alt={"gg"}
                                         />
                                     </div>
                                 </div>
@@ -90,11 +90,11 @@ const FeaturesTiles = ({
                             <div className="tiles-item-inner">
                                 <div className="features-tiles-item-header">
                                     <div className="features-tiles-item-image mb-16">
-                                        <Image
-                                            src={require("./../../assets/images/feature-tile-icon-02.svg")}
-                                            alt="Features tile icon 02"
-                                            width={200}
-                                            height={200}
+                                        <img
+                                            src={require("./../../assets/images/DSC_0397.jpg")}
+                                            width={400}
+                                            height={400}
+                                            alt={"gg"}
                                         />
                                     </div>
                                 </div>
@@ -122,17 +122,17 @@ const FeaturesTiles = ({
                             <div className="tiles-item-inner">
                                 <div className="features-tiles-item-header">
                                     <div className="features-tiles-item-image mb-16">
-                                        <Image
-                                            src={require("./../../assets/images/feature-tile-icon-03.svg")}
-                                            alt="Features tile icon 03"
-                                            width={200}
-                                            height={200}
+                                        <img
+                                            src={require("./../../assets/images/DSC_0344.jpg")}
+                                            width={400}
+                                            height={400}
+                                            alt={"gg"}
                                         />
                                     </div>
                                 </div>
                                 <div className="features-tiles-item-content">
                                     <h4 className="mt-0 mb-8">
-                                        Robust Workflow
+                                        Precizno iscrtavanje
                                     </h4>
                                     <p className="m-0 text-sm">
                                         Upoznajte se sa nehirurškim zahvatom
