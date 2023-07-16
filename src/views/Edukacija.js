@@ -1,6 +1,5 @@
 import React from "react";
 import SectionHeader from "../components/sections/partials/SectionHeader";
-import AboutUsTiles from "../components/sections/AboutUsTiles";
 
 const Edukacija = () => {
     return (

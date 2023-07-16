@@ -83,12 +83,11 @@ const Contacts = ({
                                     Kontakt telefon i socijalne mreže
                                 </div>
                                 <p className="m-0">
-                                    <b>Telefon:</b> 061/700-877 <br />
-                                    <b>SMS, Viber, WhatsApp</b> <br />
+                                    <b>Telefon:</b> 061/700-877 (Viber, WhatsApp) <br />
                                     <b>Instagram:</b> smp.sarajevo_ <br />
                                     <b>Facebook:</b> SMP Sarajevo Mikro
                                     Pigmentacija <br />
-                                    <b>Adresa:</b> Ljuška Duštine 54 <br />
+                                    <b>Adresa:</b> Džemala Bijedića 279G <br />
                                 </p>
                             </div>
                             <div

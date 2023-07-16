@@ -28,6 +28,7 @@ const App = () => {
     let location = useLocation();
 
     useEffect(() => {
+        document.title = 'Sarajevo Mikropigmentacija';
         const page = location.pathname;
         document.body.classList.add("is-loaded");
         childRef.current.init();

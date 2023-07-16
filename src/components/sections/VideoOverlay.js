@@ -1,6 +1,6 @@
 import React from "react";
 import Hero from "./Hero";
-import videoBG from "../../assets/videos/videoBg.mp4";
+import videoBG from "../../assets/videos/videoBgCompressed.mp4";
 
 const VideoOverlay = () => {
     return (

@@ -243,3 +243,15 @@
 .footer-links .link-1:before {
     content: none;
 }
+
+@media screen and (max-width: 640px) {
+    .footer-center {
+        margin: auto;
+        width: 50%;
+        padding-top: 24px;
+    }
+
+    .footer-logo {
+        display: none;
+    }
+}

@@ -1,4 +1,4 @@
-import React, { useRef, useEffect } from "react";
+     import React, { useRef, useEffect } from "react";
 import mapboxgl from "mapbox-gl";
 import "./Map2.css";
 import "mapbox-gl/dist/mapbox-gl.css";
@@ -16,7 +16,7 @@ const Map = () => {
             container: mapContainerRef.current,
             style: "mapbox://styles/mapbox/satellite-streets-v12",
             center: [18.323704969860433, 43.84133612565617],
-            zoom: 16,
+            zoom: 14.7,
         });
 
         // Create default markers

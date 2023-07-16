@@ -36,19 +36,19 @@ const Footer = ({ className, topOuterDivider, topDivider, ...props }) => {
                         <Map />
                     </div>
                     <div className="footer-top space-between text-xxs">
-                        <Logo />
+                        <div className="footer-logo">
+                            <Logo />
+                        </div>
                         <div class="footer-center">
                             <div>
-                                <i class="fa fa-map-marker"></i>
                                 <p>
-                                    <span>444 S. Cedros Ave</span> Solana Beach,
-                                    California
+                                    <span>Džemala Bijedića 279G</span> Stup - Naselje Bulevar,
+                                    Sarajevo
                                 </p>
                             </div>
 
                             <div>
-                                <i class="fa fa-phone"></i>
-                                <p>+1.555.555.5555</p>
+                                <p>+387 61 700 877</p>
                             </div>
                         </div>
                         <FooterSocial />
