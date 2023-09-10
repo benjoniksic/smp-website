@@ -78,7 +78,7 @@ const Hero = ({
                                         tag="a"
                                         color="dark"
                                         wideMobile
-                                        href="https://github.com/cruip/open-react-template/"
+                                        href="zakazivanje"
                                     >
                                         Zakažite termin
                                     </Button>

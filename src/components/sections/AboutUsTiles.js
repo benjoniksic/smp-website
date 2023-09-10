@@ -64,12 +64,12 @@ const AboutUsTiles = ({
                                         Master licenca
                                     </h4>
                                     <p className="m-0 text-sm">
-                                        Velikom broju klijenata smo vratili
-                                        samopouzdanje SMP tehnikom! Uz pažljivo odabranu nijansu
-                                        boje, koja odgovara prirodnoj folikuli
-                                        kose, naši klijenti su dobili konačne
-                                        rezultate u samo 2 do 3 posjete SMP
-                                        centru u Sarajevu!
+                                        Da bi tretman mikropigmentacije bio uspješno izveden
+                                        potrebna je kvalitetna edukacija,
+                                        posjedovanje prirodnih vještina, strpljenja i
+                                        preciznosti. Pored samostalne edukacije, naša <b>Aida</b> je
+                                        dostigla sami vrh izučavanja mikropigmentacije sa master
+                                        certifikatom iz Londona!
                                     </p>
                                 </div>
                             </div>
@@ -95,13 +95,13 @@ const AboutUsTiles = ({
                                         Broj zadovoljnih klijenata
                                     </h4>
                                     <p className="m-0 text-sm">
-                                        Da biste uspješno izveli SMP tretman,
-                                        potrebno je jako puno edukacija,
-                                        prirodnih vještina, strpljenja i
-                                        preciznosti. Ukratko, ovaj tretman ne
-                                        može raditi svako a naša <b>Aida</b> je
-                                        dostigla sami vrh edukacija sa master
-                                        certifikatom iz Londona!
+                                        Velikom broju klijenata smo vratili
+                                        samopouzdanje i ispunili očekivanja! 
+                                        Uz pažljivo odabranu nijansu
+                                        boje, koja odgovara prirodnoj folikuli
+                                        kose, naši klijenti su dobili konačne
+                                        rezultate nakon samo par tretmana u 
+                                        našem studiju u Sarajevu!
                                     </p>
                                 </div>
                             </div>
@@ -127,13 +127,13 @@ const AboutUsTiles = ({
                                         Godine iskustva
                                     </h4>
                                     <p className="m-0 text-sm">
-                                        Upoznajte se sa nehirurškim zahvatom
-                                        kojim se vizuelno dodaje gustina na
-                                        dijelovima glave gdje je kosa
-                                        prorijeđena usljed ćelavosti, ožiljaka.
-                                        Precizno iscrtavanje i imitiranje
-                                        folikula dlake može se primjenjivati na
-                                        svim mjestima.
+                                        Naš studio za mikropigmentaciju pruža 
+                                        usluge još od 2019. godine čemu svjedoče
+                                        mnogi zadovoljni klijenti i foto-video
+                                        materijal koji možete pronaći na našoj stranici
+                                        i društvenim mrežama. Pored toga naš salon
+                                        drži periodične grupne edukacije za nove 
+                                        potencijalne artiste mikropigmentacije!
                                     </p>
                                 </div>
                             </div>

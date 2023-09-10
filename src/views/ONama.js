@@ -11,7 +11,7 @@ const ONama = () => {
                         data={{
                             title: "O nama",
                             paragraph:
-                                "Sarajevo Mikro Pigmentacija je salon osnovan prije 4 godine kao prvi centar za mikropigmentaciju u Bosni i Hercegovini. Od tada, svakodnevno se razvijamo i napredujemo da bismo našim klijentima pružili maksimalno profesionalnu uslugu vrhunskog kvaliteta.",
+                                "Sarajevo Mikro Pigmentacija je salon osnovan 2019. godine kao prvi centar za mikropigmentaciju u Bosni i Hercegovini. Od tada, svakodnevno se razvijamo i napredujemo da bismo našim klijentima pružili maksimalno profesionalnu uslugu vrhunskog kvaliteta.",
                         }}
                         className="center-content"
                     />

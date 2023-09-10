@@ -88,6 +88,7 @@ const Zakazivanje = ({
                                     <b>Facebook:</b> SMP Sarajevo Mikro
                                     Pigmentacija <br />
                                     <b>Adresa:</b> Džemala Bijedića 279G <br />
+                                    <b>E-mail:</b> sarajevomikropigmentacija@gmail.com <br />
                                 </p>
                             </div>
                             <div
