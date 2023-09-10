@@ -9,8 +9,9 @@ const VideoOverlay = () => {
                 <div className="video-overlay" />
                 <div 
                     dangerouslySetInnerHTML={
-                        { __html: `<video loop muted autoplay playsinline src="${videoBgCompressed}"/>,` }
+                        { __html: `<video loop muted autoplay playsinline src="${videoBgCompressed}" style="object-fit: cover;"/>` }
                     }
+                    className="video-class"
                 >
                 </div>
                 <div className="video-content">
