@@ -1,18 +1,18 @@
-import React, { useRef } from "react";
+import React from "react";
 import Hero from "./Hero";
 import videoBgCompressed from "../../assets/videos/videoBgCompressed.mp4";
 
 const VideoOverlay = () => {
-    const videoElement = useRef(null)
-    const touchStartHandler = () => {
-        videoElement.current.play()
-    }
-    
     return (
         <>
-            <div className="video-container" onTouchStart={touchStartHandler}>
+            <div className="video-container">
                 <div className="video-overlay" />
-                <video src={videoBgCompressed} autoPlay loop muted ref={videoElement}/>
+                <div 
+                    dangerouslySetInnerHTML={
+                        { __html: `<video loop muted autoplay playsinline src="${videoBgCompressed}"/>,` }
+                    }
+                >
+                </div>
                 <div className="video-content">
                     <Hero className="illustration-section-01" />
                 </div>
