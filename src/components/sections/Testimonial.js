@@ -70,7 +70,7 @@ const Testimonial = ({
                                 </div>
                                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
                                     <span className="testimonial-item-name text-color-high">
-                                        Ime
+                                        Dino
                                     </span>
                                     <span className="text-color-low"> / </span>
                                     <span className="testimonial-item-link">

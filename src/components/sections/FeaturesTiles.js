@@ -64,8 +64,8 @@ const FeaturesTiles = ({
                                     </h4>
                                     <p className="m-0 text-sm">
                                         Velikom broju klijenata smo vratili
-                                        samopouzdanje SMP tehnikom ubrizgavanja
-                                        pigmenta! Uz pažljivo odabranu nijansu
+                                        samopouzdanje SMP tehnikom! Uz 
+                                        pažljivo odabranu nijansu
                                         boje, koja odgovara prirodnoj folikuli
                                         kose, naši klijenti su dobili konačne
                                         rezultate u samo 2 do 3 posjete SMP

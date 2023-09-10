@@ -1,21 +1,33 @@
 import React from "react";
 import SectionHeader from "../components/sections/partials/SectionHeader";
+import Image from "../components/elements/Image";
 
 const Edukacija = () => {
     return (
-        <>
-            <div className="container section">
-                <div className="section-inner">
-                    <SectionHeader
-                        data={{
-                            title: "Edukacija",
-                            paragraph: "Under construction",
-                        }}
-                        className="center-content"
-                    />
+        <div className="container section">
+            <div className="section-inner">
+                <SectionHeader
+                    data={{
+                        title: "Iduci termin edukacije",
+                        paragraph:
+                            "Basic grupna edukacija će se održati u našem studiju u oktobru mjesecu. Trajat će 2 dana gdje ćete imati priliku steći sve potrebne vještine za samostalni rad SMP tehnikom. Za rezervaciju mjesta i ostale informacije stojimo na raspolaganju.",
+                    }}
+                    className="center-content"
+                />
+                <div className="center-content mb-32 pb-32">
+                    <div
+                        className="hero-figure reveal-from-bottom illustration-element-01"
+                    >
+                        <Image
+                            className="has-shadow"
+                            src={require("./../assets/images/edukacija.jpg")}
+                            alt="Edukacija"
+                            width={600}
+                        />
+                    </div>
                 </div>
             </div>
-        </>
+        </div>
     );
 };
 

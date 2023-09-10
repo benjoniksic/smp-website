@@ -94,10 +94,10 @@ const FeaturesSplit = ({
                                 data-reveal-container=".split-item"
                             >
                                 <Image
-                                    src={require("./../../assets/images/DSC_0391.JPG")}
+                                    src={require("./../../assets/images/opadanje-kose-1.jpg")}
                                     alt="Features split 01"
                                     width={528}
-                                    height={396}
+                                    height={352}
                                 />
                             </div>
                         </div>
@@ -130,7 +130,7 @@ const FeaturesSplit = ({
                                 data-reveal-container=".split-item"
                             >
                                 <Image
-                                    src={require("./../../assets/images/DSC_0391.JPG")}
+                                    src={require("./../../assets/images/opadanje-kose-2.jpg")}
                                     alt="Features split 01"
                                     width={528}
                                     height={396}
@@ -150,12 +150,12 @@ const FeaturesSplit = ({
                                     Transplatacije kose
                                 </h3>
                                 <p className="m-0">
-                                    Lorem ipsum dolor sit amet, consectetur
-                                    adipiscing elit, sed do eiusmod tempor
-                                    incididunt ut labore et dolore magna aliqua
-                                    — Ut enim ad minim veniam, quis nostrud
-                                    exercitation ullamco laboris nisi ut aliquip
-                                    ex ea commodo consequat.
+                                    SMP se veoma uspješno kombinuje sa tretmanima transplantacije bilo da poveća 
+                                    utisak gustine ili kao tretman kojim se prikrivaju ožiljci nastali transplantacijom.
+                                    Ukoliko presađivanje nije uspjelo da u potpunosti riješi problem gubitka kose, mikropigmentacija se 
+                                    može primjeniti kako bi dala utisak guste kose čak i na mestima gde je kosa rijetka.
+                                    Pigmenti koji ostaju na skalpu maksimalno smanjuju kontrast između boje kože i boje kose, 
+                                    i samim tim daju utisak potpuno guste kose.
                                 </p>
                             </div>
                             <div
@@ -166,7 +166,7 @@ const FeaturesSplit = ({
                                 data-reveal-container=".split-item"
                             >
                                 <Image
-                                    src={require("./../../assets/images/DSC_0342.JPG")}
+                                    src={require("./../../assets/images/transplatacija-kose.jpg")}
                                     alt="Features split 02"
                                     width={528}
                                     height={396}
@@ -186,12 +186,11 @@ const FeaturesSplit = ({
                                     Opadanja kose na pečate
                                 </h3>
                                 <p className="m-0">
-                                    Lorem ipsum dolor sit amet, consectetur
-                                    adipiscing elit, sed do eiusmod tempor
-                                    incididunt ut labore et dolore magna aliqua
-                                    — Ut enim ad minim veniam, quis nostrud
-                                    exercitation ullamco laboris nisi ut aliquip
-                                    ex ea commodo consequat.
+                                Opadanje kose na pečate se stručno naziva alopecija areata. Za ovu pojavu karakteristične su 
+                                jedna ili više ogoljelih površina na skalpu. One su obično okrugle i mogu biti raznih veličina, 
+                                a mogu čak i mijenjati mjesto na skalpu. U slučaju alopecije areate, ubjedljivo najbolje rešenje je 
+                                mikropigmentacija skalpa. Ovo rješenje je trajno, i ako se uradi kvalitetno, može riješiti 
+                                problem ove vrste alopecije zauvek.
                                 </p>
                             </div>
                             <div
@@ -202,7 +201,7 @@ const FeaturesSplit = ({
                                 data-reveal-container=".split-item"
                             >
                                 <Image
-                                    src={require("./../../assets/images/cover.jpg")}
+                                    src={require("./../../assets/images/opadanje-kose-na-pecate.jpg")}
                                     alt="Features split 03"
                                     width={528}
                                     height={396}
@@ -242,7 +241,7 @@ const FeaturesSplit = ({
                                 data-reveal-container=".split-item"
                             >
                                 <Image
-                                    src={require("./../../assets/images/cover.jpg")}
+                                    src={require("./../../assets/images/pokrivanje-oziljaka.jpg")}
                                     alt="Features split 03"
                                     width={528}
                                     height={396}
@@ -279,7 +278,7 @@ const FeaturesSplit = ({
                                 data-reveal-container=".split-item"
                             >
                                 <Image
-                                    src={require("./../../assets/images/cover.jpg")}
+                                    src={require("./../../assets/images/pokrivanje-oziljaka-2.jpg")}
                                     alt="Features split 03"
                                     width={528}
                                     height={396}
@@ -299,12 +298,13 @@ const FeaturesSplit = ({
                                     Korekcija nestručnog tretmana
                                 </h3>
                                 <p className="m-0">
-                                    Lorem ipsum dolor sit amet, consectetur
-                                    adipiscing elit, sed do eiusmod tempor
-                                    incididunt ut labore et dolore magna aliqua
-                                    — Ut enim ad minim veniam, quis nostrud
-                                    exercitation ullamco laboris nisi ut aliquip
-                                    ex ea commodo consequat.
+                                Mikropigmentacija skalpa je relativno nova metoda, pa je samim tim i broj stručnjaka 
+                                sa iskustvom u ovom polju veoma mali. Prije nego što odlučite da radite tretman i 
+                                izaberete svog tehničara, vrlo je bitno da se detaljno raspitate o samom tretmanu i 
+                                iskustvu tehničara. U SMP centru za mikropigmentaciju skalpa 
+                                smo specijano obučeni i certifikovani za obavljanje ovog tretmana od strane vodeće 
+                                klinike u Velikoj Britaniji. Naše četverogodišnje iskustvo i veoma uspješni rezultati jasni su 
+                                pokazatelji da možete potpuno da nam vjerujete.
                                 </p>
                             </div>
                             <div
@@ -315,7 +315,7 @@ const FeaturesSplit = ({
                                 data-reveal-container=".split-item"
                             >
                                 <Image
-                                    src={require("./../../assets/images/cover.jpg")}
+                                    src={require("./../../assets/images/nestrucan-tretman.webp")}
                                     alt="Features split 03"
                                     width={528}
                                     height={396}
@@ -356,7 +356,7 @@ const FeaturesSplit = ({
                                 data-reveal-container=".split-item"
                             >
                                 <Image
-                                    src={require("./../../assets/images/cover.jpg")}
+                                    src={require("./../../assets/images/opadanje-kose-kod-zena-1.jpg")}
                                     alt="Features split 03"
                                     width={528}
                                     height={396}
@@ -387,7 +387,7 @@ const FeaturesSplit = ({
                                 data-reveal-container=".split-item"
                             >
                                 <Image
-                                    src={require("./../../assets/images/cover.jpg")}
+                                    src={require("./../../assets/images/opadanje-kose-kod-zena-2.jpg")}
                                     alt="Features split 03"
                                     width={528}
                                     height={396}

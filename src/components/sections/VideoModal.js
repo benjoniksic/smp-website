@@ -93,7 +93,7 @@ const VideoModal = ({
                             id="video-modal"
                             show={videoModalActive}
                             handleClose={closeModal}
-                            video="https://player.vimeo.com/video/174002812"
+                            video={require("./../../assets/videos/videoModalv3Compressed.mp4")}
                             videoTag="iframe"
                         />
                     </div>
