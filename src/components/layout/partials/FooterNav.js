@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import classNames from "classnames";
 import { Link } from "react-router-dom";
 
@@ -8,6 +8,10 @@ const FooterNav = ({ className, ...props }) => {
     const scrollToTop = () => {
         window.scrollTo({ top: 0, left: 0, behavior: 'smooth' });
     };
+
+    useEffect(() => {
+        scrollToTop();
+    })
 
     return (
         <nav {...props} className={classes}>
