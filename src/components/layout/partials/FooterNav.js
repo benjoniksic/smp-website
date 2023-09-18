@@ -11,7 +11,7 @@ const FooterNav = ({ className, ...props }) => {
 
     useEffect(() => {
         scrollToTop();
-    }, [])
+    })
 
     return (
         <nav {...props} className={classes}>
