@@ -28,6 +28,10 @@
 <body class="has-animations">
     <noscript>You need to enable JavaScript to run this app.</noscript>
     <div id="root" class="body-wrap"></div>
+    <script>
+      //PLAYS VIDEO IN LOW POWER MODE
+      $('body').on('click touchstart', function ()  {var videoElement = document.getElementsByClassName('inlinevideo');if (videoElement.playing) {} else {$('.inlinevideo').trigger('play');}});
+    </script>
 </body>
 
 </html>

@@ -9,7 +9,7 @@ const VideoOverlay = () => {
                 <div className="video-overlay" />
                 <div 
                     dangerouslySetInnerHTML={
-                        { __html: `<video loop muted autoplay playsinline src="${videoBgCompressed}" style="object-fit: cover;"/>` }
+                        { __html: `<video loop muted autoplay playsinline src="${videoBgCompressed}" class="inlinevideo" style="object-fit: cover;"/>` }
                     }
                     className="video-class"
                 >
