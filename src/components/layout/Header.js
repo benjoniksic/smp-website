@@ -112,7 +112,7 @@ const Header = ({
                                         className={classNames(
                                             "list-reset text-xs",
                                             navPosition &&
-                                                `header-nav-${navPosition}`
+                                            `header-nav-${navPosition}`
                                         )}
                                     >
                                         <li>
@@ -142,6 +142,14 @@ const Header = ({
                                                 onClick={closeMenu}
                                             >
                                                 Prije i poslije
+                                            </Link>
+                                        </li>
+                                        <li>
+                                            <Link
+                                                to="blog"
+                                                onClick={closeMenu}
+                                            >
+                                                Blog
                                             </Link>
                                         </li>
                                         <li>

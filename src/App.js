@@ -14,6 +14,7 @@ import Zakazivanje from "./views/Zakazivanje";
 import PrijePoslije from "./views/PrijePoslije";
 import ONama from "./views/ONama";
 import Edukacija from "./views/Edukacija";
+import Blog from "./views/Blog";
 
 // Initialize Google Analytics
 ReactGA.initialize(process.env.REACT_APP_GA_CODE);
@@ -63,6 +64,12 @@ const App = () => {
                         exact
                         path="/prije-i-poslije/"
                         component={PrijePoslije}
+                        layout={LayoutDefault}
+                    />
+                    <AppRoute
+                        exact
+                        path="/blog/"
+                        component={Blog}
                         layout={LayoutDefault}
                     />
                     <AppRoute
