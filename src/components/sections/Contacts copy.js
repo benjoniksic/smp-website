@@ -87,7 +87,7 @@ const Contacts = ({
                                     <b>Instagram:</b> smp.sarajevo_ <br />
                                     <b>Facebook:</b> SMP Sarajevo Mikro
                                     Pigmentacija <br />
-                                    <b>Adresa:</b> Džemala Bijedića 279G <br />
+                                    <b>Adresa:</b> Barska 59 - Lamela B <br />
                                 </p>
                             </div>
                             <div
