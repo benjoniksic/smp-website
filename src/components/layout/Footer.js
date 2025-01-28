@@ -42,7 +42,7 @@ const Footer = ({ className, topOuterDivider, topDivider, ...props }) => {
                         <div class="footer-center">
                             <div>
                                 <p>
-                                    <span>Spomenik bb, Sarajevo 71000</span> Otes - Ilidža Residence
+                                    <span>Otes, Sarajevo 71000</span> Ilidža Residence, Barska 59 - Lamela B
                                 </p>
                             </div>
 
