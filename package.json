@@ -6,22 +6,22 @@
         "@iconify/icons-mdi": "^1.2.38",
         "@iconify/react": "^4.0.1",
         "@react-google-maps/api": "^2.18.1",
+        "body-parser": ">=1.20.3",
         "classnames": "^2.2.6",
         "google-map-react": "^2.2.0",
+        "http-proxy-middleware": ">=2.0.7",
         "lodash": "^4.17.15",
         "mapbox-gl": "^2.14.1",
+        "path-to-regexp": ">=1.9.0",
         "react": "^16.13.1",
         "react-dom": "^16.13.1",
         "react-ga": "^2.7.0",
         "react-map-gl": "^7.0.21",
         "react-router-dom": "^5.1.2",
-        "react-scripts": "^3.4.1",
+        "react-scripts": "^5.0.1",
         "react-slick": "^0.29.0",
         "sass": "^1.49.7",
-        "slick-carousel": "^1.8.1",
-        "http-proxy-middleware": ">=2.0.7",
-        "path-to-regexp": ">=1.9.0",
-        "body-parser": ">=1.20.3"
+        "slick-carousel": "^1.8.1"
     },
     "repository": {
         "type": "git",
@@ -38,13 +38,13 @@
     },
     "browserslist": {
         "production": [
-          ">0.2%",
-          "not dead",
-          "not op_mini all",
-          "not safari < 10",
-          "not chrome < 51",
-          "not android < 5",
-          "not ie < 12"
+            ">0.2%",
+            "not dead",
+            "not op_mini all",
+            "not safari < 10",
+            "not chrome < 51",
+            "not android < 5",
+            "not ie < 12"
         ],
         "development": [
             "last 1 chrome version",
